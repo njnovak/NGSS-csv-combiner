@@ -1,0 +1,10 @@
+This python package can be used to combine csv files together.
+
+Operation instructions:
+
+1. Move all csv files to be combined into the current folder.
+
+2. Make sure all csv files that you want to be combined follow the naming convention ##UNIT## Elements of NGSS Dimensions.csv.
+For example, 6.1 Elements of NGSS Dimenstions.csv
+
+3. Run the script " 
